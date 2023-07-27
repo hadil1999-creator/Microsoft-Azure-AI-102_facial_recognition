@@ -6,10 +6,9 @@ This repository uses Microsoft Azure AI services that analyzes faces in images v
 Deploy Azure Face API to perform facial recognition
 
 ## 📁 Source Files
-There are two implementation options: `C#` or `Python3` included in this repository:
-1. `**main_facial_recognition.py**`: This is the main facial recognition Python script responsible for detecting faces in the input video and drawing bounding boxes with names for identified world leaders.
-2. `**g20_leaders_faces.py**`: This file contains a small database of vectorized faces belonging to various G20 world leaders. The main script uses this database for face comparison during the recognition process.
-
+There are two implementation options: `C#` or `Python3` included in this repository. Within the `Python` directory there are two main source codes for detecting and analysing facial data:
+1. `**detect-faces.py**`: This is the main facial recognition Python script responsible for detecting faces.
+2. `**analyze-faces.py**`: This is the main facial recognition Python script responsible for analysing facial features.
 
 ## 📌 Citation
 M.Suresh (2023)
