@@ -1,6 +1,6 @@
 # 👁️ Microsoft-Azure-AI-102_facial_recognition 👥
 
-This repository uses Microsoft Azure AI services that analyzes faces in images via the Face API and Cognitive Services
+This repository uses Microsoft Azure AI services that analyses faces in images via the Face API and Cognitive Services.
 
 ## 🎯 Aim
 Deploy Azure Face API to perform facial recognition
